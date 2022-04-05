@@ -72,3 +72,4 @@ Firebase provides detailed documentation and cross-platform SDKs to help you bui
 4. `firebase login` - a browser window will open
 5. `firebase use --add` - when prompted, select your Project ID, then give your Firebase project an alias `default`.
 6. `firebase serve --only hosting` - run the following Firebase CLI command.
+7. `npm install`
