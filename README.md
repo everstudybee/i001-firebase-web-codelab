@@ -67,3 +67,7 @@ Firebase provides detailed documentation and cross-platform SDKs to help you bui
 ## Create project
 
 1. Don't add logo during OAuth configuration. It will take 4-6 weeks for the project authorization.
+2. `npm -g install firebase-tools`
+3. `firebase --version`
+4. `firebase login` - a browser window will open
+5. `firebase use --add` - when prompted, select your Project ID, then give your Firebase project an alias `default`.
